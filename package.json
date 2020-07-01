@@ -1,0 +1,14 @@
+{
+  "name": "runbeck",
+  "version": "1.0.0",
+  "description": "Runbeck Code Exercise",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Rendell Banzon",
+  "license": "ISC",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
